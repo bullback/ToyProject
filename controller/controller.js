@@ -2,4 +2,6 @@
   //putDom();
   //getDom();
   //drawShadowOnMouseOveredDOM();
+  //clickObject();
+  //stopAtag();
 })();

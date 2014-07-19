@@ -35,7 +35,7 @@
 
 				//console.log(tab[0].id);
 				chrome.tabs.executeScript(tab[0].id, {
-					code: "drawShadowOnMouseOveredDOM();",
+					code: "clickObject(); stopAtag(); drawShadowOnMouseOveredDOM();",
 					allFrames: true
 				});
 

@@ -12,6 +12,8 @@
       "static/jquery.min.js",
       "controller/libs/putDom.js",
       "controller/libs/getDom.js",
+      "controller/libs/click.js",
+      "controller/libs/stopAtag.js",
       "controller/libs/drawShadowOnMouseOveredDOM.js",
       "controller/controller.js"
     ]
