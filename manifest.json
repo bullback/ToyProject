@@ -12,7 +12,18 @@
       "static/jquery.min.js",
       "controller/libs/putDom.js",
       "controller/libs/getDom.js",
+      "controller/libs/drawShadowOnMouseOveredDOM.js",
       "controller/controller.js"
     ]
-  }]
+  }],
+  "browser_action": {
+
+    "default_icon": "icon.png",
+    "default_popup": "view/startToggleGuideMode.html" 
+
+  },
+  "permissions": [
+    "tabs",
+    "<all_urls>"
+  ]
 }
