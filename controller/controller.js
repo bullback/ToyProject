@@ -1,4 +1,7 @@
 (function() {
   //putDom();
-  getDom();
+  //getDom();
+  //drawShadowOnMouseOveredDOM();
+  //clickObject();
+  //stopAtag();
 })();
